@@ -106,11 +106,11 @@
     }
   },
   "bluetooth": {
+    "controller": "bluez",
     "format": "",
     "format-disabled": "󰂲",
     "format-connected": "󰂱 {num_connections}",
-    // "tooltip-format": "No Device Connected"
-    "tooltip-format-connected-battery": "{device_alias}: {device_battery_percentage}%",
+    "tooltip-format": "{device-battery-percentage}",
     "on-click": "blueberry"
   },
   "pulseaudio": {
