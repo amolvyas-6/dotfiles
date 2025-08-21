@@ -13,4 +13,7 @@ source ~/.local/share/omarchy/default/bash/rc
 # Set a custom prompt with the directory revealed (alternatively use https://starship.rs)
 # PS1="\W \[\e]0;\w\a\]$PS1"
 #
+source /usr/share/nvm/init-nvm.sh 2>/dev/null
 eval "$(starship init bash)"
+
+. "$HOME/.local/share/../bin/env"
