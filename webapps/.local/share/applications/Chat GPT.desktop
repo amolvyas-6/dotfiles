@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Chat GPT
+Comment=Chat GPT
+Exec=omarchy-launch-webapp https://chatgpt.com
+Terminal=false
+Type=Application
+Icon=/home/decipher/.local/share/applications/icons/Chat GPT.png
+StartupNotify=true

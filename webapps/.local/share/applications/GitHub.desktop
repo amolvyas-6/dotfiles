@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=GitHub
+Comment=GitHub
+Exec=omarchy-launch-webapp https://github.com/amolvyas-6
+Terminal=false
+Type=Application
+Icon=/home/decipher/.local/share/applications/icons/GitHub.png
+StartupNotify=true

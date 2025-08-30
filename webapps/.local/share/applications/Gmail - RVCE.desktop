@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Gmail - RVCE
+Comment=Gmail - RVCE
+Exec=omarchy-launch-webapp https://mail.google.com/mail/u/1/#inbox
+Terminal=false
+Type=Application
+Icon=/home/decipher/.local/share/applications/icons/Gmail - RVCE.png
+StartupNotify=true
