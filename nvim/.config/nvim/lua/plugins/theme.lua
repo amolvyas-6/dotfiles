@@ -1,1 +1,0 @@
-/home/decipher/.config/omarchy/current/theme/neovim.lua
