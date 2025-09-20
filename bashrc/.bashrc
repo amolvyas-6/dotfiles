@@ -19,3 +19,6 @@ lst() {
   local level=${1:-2} # default to 2 if no argument given
   eza --tree --level="$level" --long --icons --git
 }
+
+. "$HOME/.local/share/../bin/env"
+. /usr/share/nvm/init-nvm.sh >/dev/null 2>&1
